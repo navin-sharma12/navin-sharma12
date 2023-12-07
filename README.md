@@ -1,5 +1,5 @@
 # 💫 Hi, I am Navin Sharma
-👦 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>👨‍💻 Software developer by profession (MERN stack)<br>🌱 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: navinsharmar@gmail.com
+👦 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>👨‍💻 Software developer by profession <br>🌱 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: navinsharmar@gmail.com
 
 
 ## 🌐 Socials:
